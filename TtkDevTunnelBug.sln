@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TtkDevTunnelBug.API", "src\TtkDevTunnelBug.API\TtkDevTunnelBug.API.csproj", "{FA449F37-12BA-4236-8DE5-51688742047C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TtkDevTunnelBug.Web", "src\TtkDevTunnelBug.Web\TtkDevTunnelBug.Web.csproj", "{D0CBBE80-E76F-425D-BEF7-0341E30B5063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TtkDevTunnelBug.ChatBot", "src\TtkDevTunnelBug.ChatBot\TtkDevTunnelBug.ChatBot.csproj", "{6D59067E-05FD-4103-89ED-798A7715F1B1}"
+EndProject
+Project("{A9E3F50B-275E-4AF7-ADCE-8BE12D41E305}") = "TeamsApp", "TeamsApp\TeamsApp.ttkproj", "{04B0AFBE-5879-4B02-8127-E37E76D6760A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA449F37-12BA-4236-8DE5-51688742047C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA449F37-12BA-4236-8DE5-51688742047C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA449F37-12BA-4236-8DE5-51688742047C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA449F37-12BA-4236-8DE5-51688742047C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CBBE80-E76F-425D-BEF7-0341E30B5063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CBBE80-E76F-425D-BEF7-0341E30B5063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CBBE80-E76F-425D-BEF7-0341E30B5063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CBBE80-E76F-425D-BEF7-0341E30B5063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D59067E-05FD-4103-89ED-798A7715F1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D59067E-05FD-4103-89ED-798A7715F1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D59067E-05FD-4103-89ED-798A7715F1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D59067E-05FD-4103-89ED-798A7715F1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B0AFBE-5879-4B02-8127-E37E76D6760A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B0AFBE-5879-4B02-8127-E37E76D6760A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B0AFBE-5879-4B02-8127-E37E76D6760A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B0AFBE-5879-4B02-8127-E37E76D6760A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7267DE35-1904-4AF7-9AE1-91411F0798D1}
+	EndGlobalSection
+EndGlobal
